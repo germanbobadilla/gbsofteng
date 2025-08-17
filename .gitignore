@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+*.env
+
+# Django
+db.sqlite3
+media/
+
+# VSCode
+.vscode/
+
+# Node (if you add React later)
+node_modules/
+build/
